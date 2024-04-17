@@ -4,7 +4,7 @@ import random
 from cryptography.fernet import Fernet
 
 # Encryption key (replace 'your_key_here' with your actual key)
-key = b'_myIjlvjEKb0LYRGxgu81ghcQMCLjW8ZXlKLmlpu2iE='
+key = b'muPrZwxdmMHybsJNXhUP0HF9lMSf4_x8BkzhhZr-J6o='
 
 # Initialize the Fernet cipher with the key
 cipher = Fernet(key)
